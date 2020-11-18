@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "asc9paOwcroOO/ZYYWVbRQhW0cH7u7fG4HF99+WF4t1Ac+cIM94CODY8JCzSc0DqstUcPbEFFFGYWfUdAfoW4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Klaudia\\source\\repos\\cw2\\cw2\\cw2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Klaudia\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
+    "C:\\Users\\Klaudia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

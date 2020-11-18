@@ -1,0 +1,1 @@
+FileNotFoundException: Plik nazwa nie istniejeCould not find file 'C:\Users\Klaudia\source\repos\cw2\cw2\bin\Debug\netcoreapp3.1\data.csv'.
